@@ -40,8 +40,8 @@ export const Parallax = () => {
       </nav>
       <section className="banner">
         <div className="banner-content">
-          <h2>Hi, I'm Peter</h2>
-          <h3>Frontend Developer</h3>
+          <h2>Hi, I'm Roy Cuadra</h2>
+          <h3>An Aspiring Software Developer</h3>
         </div>
       </section>
       <div ref={containerRef} className="container">
